@@ -1,0 +1,3 @@
+/Users/miraslau/praskarrrr/cmake-build-debug/CMakeFiles/praskarrrr.dir
+/Users/miraslau/praskarrrr/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/miraslau/praskarrrr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
